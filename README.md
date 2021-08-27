@@ -1,2 +1,2 @@
 # ant_grid
-run from the command line. further usage details to be added
+run "php main.php" from the command line. further usage details for various command line parameters to be added
